@@ -1,0 +1,21 @@
+body {
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #A60522;
+    text-align: center;
+}
+
+.text {
+    background-color: #D9998B;
+    color: #590F23;
+    height: 200px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1px dotted gray;
+    padding: 10px 10px 10px 10px;
+    font-family: sans-serif;
+    border-radius: 5% 1px;
+}
